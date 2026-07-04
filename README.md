@@ -1,2 +1,2 @@
-# Abdulquyum-s-Portfolio
+# Abdulquyum-Portfolio
 Analytics Portfolio
